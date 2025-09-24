@@ -1,1 +1,1 @@
-# Brain_Spatiotemporal_Dynamic
+# The full code will be made publicly available upon publication of this paper.
